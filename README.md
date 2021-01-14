@@ -17,7 +17,7 @@ as I have with hash tables among many others.
 If you want to learn more about the motivation for this,
 please visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/15/quicksort/
 
 Keep in mind that the best way to learn / refresh is to read and experiment.
 
